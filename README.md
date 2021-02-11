@@ -1,8 +1,12 @@
 <h2> 👋 Hi there! I'm Rafael Panzenhagen. </h2>
 <strong>Futuro dev web | Futuro ex-bancário | Professor de inglês | Rotaractiano</strong>
+
+---
+
 <p> 📫 <a href="mailto:rafaelmobarack@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rafael-panzenhagen/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafael--panzenhagen%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-<div style="border-style:solid; border-color:lightgray;">
+---
+
 <p>Formado em Gestão Financeira pela Uninter e concluindo formação em Análise e Desenvolvimento de Sistemas pela Uni Ritter (estou no último semestre!). Trabalho há 7 anos no setor bancário e possuo boa vivência com atendimento ao cliente e investimentos financeiros.</p>
 
 <p>Desde 2019, decidi que meu futuro está na Tecnologia da Informação. Encontrei na área uma vocação e tenho me desenvolvido para seguir profissionalmente no ramo. Após algum tempo me familiarizando com esse universo, concluí que quero atuar como Desenvolvedor Full Stack.</p>
@@ -10,7 +14,8 @@
 <p> 💼 Sou também professor particular de inglês, além de fazer trabalho voluntário no Rotaract, grupo de jovens ligado ao Rotary International.</p>
 
 <p> 👍 Interesses: Música (do Jazz ao Death Metal), cerveja artesanal, literatura e natureza.</p>
-</div>
+
+---
 
 | ![Estatísticas do github de Rafael](https://github-readme-stats.vercel.app/api?username=Rafaelmkp&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmkp&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |

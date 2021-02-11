@@ -2,7 +2,7 @@
 <strong>Futuro dev web | Futuro ex-bancário | Professor de inglês | Rotaractiano</strong>
 <p> 📫 <a href="mailto:rafaelmobarack@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rafael-panzenhagen/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafael--panzenhagen%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
-<div style="border:solid 1px lightgray;">
+<div style="border-style:solid; border-color:lightgray;">
 <p>Formado em Gestão Financeira pela Uninter e concluindo formação em Análise e Desenvolvimento de Sistemas pela Uni Ritter (estou no último semestre!). Trabalho há 7 anos no setor bancário e possuo boa vivência com atendimento ao cliente e investimentos financeiros.</p>
 
 <p>Desde 2019, decidi que meu futuro está na Tecnologia da Informação. Encontrei na área uma vocação e tenho me desenvolvido para seguir profissionalmente no ramo. Após algum tempo me familiarizando com esse universo, concluí que quero atuar como Desenvolvedor Full Stack.</p>

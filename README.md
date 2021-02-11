@@ -1,5 +1,7 @@
 <h2> 👋 Hi there! I'm Rafael Panzenhagen. </h2>
 <strong>Futuro dev web | Futuro ex-bancário | Professor de inglês | Rotaractiano</strong>
+<p> 📫 <a href="rafaelmobarack@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rafael-panzenhagen/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafael--panzenhagen%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 
 | ![Estatísticas do github de Rafael](https://github-readme-stats.vercel.app/api?username=Rafaelmkp&show_icons=true&include_all_commits=true&locale=pt-br)  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafaelmkp&hide=javascript&layout=compact&locale=pt-br) |
 | ------- | -------------------- |
@@ -8,7 +10,7 @@
 
 <p>Desde 2019, decidi que meu futuro está na Tecnologia da Informação. Encontrei na área uma vocação e tenho me desenvolvido para seguir profissionalmente no ramo. Após algum tempo me familiarizando com esse universo, concluí que quero atuar como Desenvolvedor Full Stack.</p>
 
-<p>Sou também professor particular de inglês, além de fazer trabalho voluntário no Rotaract, grupo de jovens ligado ao Rotary International.</p>
+<p> 💼 Sou também professor particular de inglês, além de fazer trabalho voluntário no Rotaract, grupo de jovens ligado ao Rotary International.</p>
 </br>
 
 <h4> 📚 Possuo experiência prática em:<h4>

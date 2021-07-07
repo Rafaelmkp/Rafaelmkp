@@ -1,5 +1,5 @@
 <h2> 👋 Hi there! I'm Rafael Panzenhagen. </h2>
-<strong>Futuro dev web | Futuro ex-bancário | Professor de inglês | Rotaractiano</strong>
+<strong>Estagiário de Desenvolvimento | Ex-bancário | Professor de inglês | Rotaractiano</strong>
 
 <p> 📫 <a href="mailto:rafaelmobarack@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.linkedin.com/in/rafael-panzenhagen/"><img alt="LinkedIn" src="https://img.shields.io/badge/rafael--panzenhagen%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
